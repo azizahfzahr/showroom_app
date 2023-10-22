@@ -1,6 +1,4 @@
-# showroom_app
-
-A new Flutter project.
+# Submission Dicoding : Membuat Aplikasi Flutter untuk Pemula
 
 ## Getting Started
 
